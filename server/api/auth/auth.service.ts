@@ -1,1 +1,1 @@
-var jwt = require('express-jwt');
+var jwt = require('express-jwt'); 
